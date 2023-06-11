@@ -3,3 +3,4 @@ Name: challenge
 Version: 0.0.1
 Summary: A simple package to create PropertyManager Class
 Author-email: Muhammad Affan <m.affankhan96@gmail.com>
+License-File: LICENSE
