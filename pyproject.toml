@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["challenge"]
+
+
+[project]
+name = "challenge"
+version = "0.0.1"
+
+authors = [
+    {name = "Muhammad Affan", email = "m.affankhan96@gmail.com"},
+]
+
+description = "A simple package to create PropertyManager Class"

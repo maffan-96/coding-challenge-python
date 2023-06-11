@@ -1,0 +1,8 @@
+pyproject.toml
+PropertyManager.egg-info/PKG-INFO
+PropertyManager.egg-info/SOURCES.txt
+PropertyManager.egg-info/dependency_links.txt
+PropertyManager.egg-info/top_level.txt
+challenge/PropertyManager.py
+challenge/__init__.py
+challenge/__main__.py
