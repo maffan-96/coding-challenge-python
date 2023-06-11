@@ -1,5 +1,6 @@
 # Coding Challenge Task
 ## Installation and Usage
+Note: Python 3.9 is used during the development and testing of this package
 1. Download or unzip the package (https://github.com/maffan-96/coding-challenge-python.git) OR The package can also be downloaded from command-line terminal using git. For using git (assuimg git is already installed).
 ```git clone https://github.com/maffan-96/coding-challenge-python``` 
 2. Now Locate the downloaded folder and navigate inside the downloaded folder by entering ```cd coding-challenge-python-main/``` in command line terminal
